@@ -33,7 +33,6 @@ function createBoxes(amount) {
   return count.join("");
 }
 
-
 // const inputNode = document.querySelector("#controls");
 // const buttonNode = inputNode.querySelectorAll("button");
 // const divNode = document.querySelector("#boxes");
